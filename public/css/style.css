@@ -1,0 +1,21 @@
+body {
+    background-image: url(http://localhost/poltekes/public/img/background2.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#box1 {
+    width: 1120px;
+    height: 150px;
+    background: #C9D2BE;
+}
+
+#box2 {
+    width: 1010px;
+    height: 500px;
+    background: #82A193;
+    margin-top: -30px;
+    margin-left: 50px;
+    opacity: 70%;
+}
