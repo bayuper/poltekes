@@ -7,11 +7,20 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="<?=BASEURL;?>/css/style.css">
     <title>Healthy Care Hospital Yogyakarta</title>
     </head>
-         <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
-             <div class="container">
-                <a class="navbar-brand" href="#"><h1>Healthy Care Hospital Yogyakarta</h1></a>
-             </div>
-        </nav>
+    <div class="container">
+        <div id="box1">
+            <img src="http://localhost/poltekes/public/img/logo.PNG" alt="" class="float-left mr-2">
+            <h1>Healthy Care Hospital Yogyakarta</h1>
+            <h5>Your Health, Our Care</h5>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="box2">
+
+        </div>
+    </div>
 
